@@ -1,10 +1,10 @@
-Here is a README section you can use for your GitHub repository:
-
----
-
 # Amazon Best Sellers Clone
 
 This is a React-based web application that mirrors the Amazon Best Selling Books page. The project was created as part of a tutorial by [Coding Addict](https://www.youtube.com/@CodingAddict). It is intended for personal practice and learning purposes.
+
+## Live Demo
+
+You can check out the live version of the app here: [Amazon Best Sellers Clone](https://bytemehard.github.io/react-best-sellers/).
 
 ## Features
 
@@ -47,6 +47,3 @@ To run this project locally:
 
 This project is for educational purposes only and is not intended for production use or commercial deployment. It serves as a practice exercise in React development.
 
----
-
-Feel free to customize it further if needed!
