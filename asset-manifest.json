@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-best-sellers/static/css/main.d6918e72.css",
+    "main.js": "/react-best-sellers/static/js/main.fd8355e6.js",
+    "static/media/book-3.jpg": "/react-best-sellers/static/media/book-3.23d4390b69a4087e3450.jpg",
+    "static/media/book-2.jpg": "/react-best-sellers/static/media/book-2.6440db5dee93d0a29d7b.jpg",
+    "static/media/book-1.jpg": "/react-best-sellers/static/media/book-1.7da4c534c51b612fe66e.jpg",
+    "index.html": "/react-best-sellers/index.html",
+    "main.d6918e72.css.map": "/react-best-sellers/static/css/main.d6918e72.css.map",
+    "main.fd8355e6.js.map": "/react-best-sellers/static/js/main.fd8355e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6918e72.css",
+    "static/js/main.fd8355e6.js"
+  ]
+}
