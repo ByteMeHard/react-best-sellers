@@ -1,6 +1,7 @@
 import img1 from './images/book-1.jpg';
 import img2 from './images/book-2.jpg';
 import img3 from './images/book-3.jpg';
+import img4 from './images/book-4.jpg';
 
 export const books = [
   {
@@ -20,5 +21,11 @@ export const books = [
     title: 'Hot Mess',
     img: img3,
     id: 3,
+  },
+  {
+    author: 'Fyodor Dostoevsky',
+    title: 'Brothers Karamazov',
+    img: img4,
+    id: 4,
   },
 ];
